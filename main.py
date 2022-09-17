@@ -36,7 +36,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Owner:- [Aditya](https://t.me/adi_xd)
+- Owner:- [Aditya](https://t.me/sarminz)
 - License: AGPL-3.0-or-later
 """
 
